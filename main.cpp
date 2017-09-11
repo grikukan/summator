@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    pair<int, int> a = read();
+    pair<int, int> a = read();//huh
     int res = sum(a.first, a.second);
     cout << res << endl;
 }
