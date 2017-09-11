@@ -4,6 +4,7 @@
 
 using namespace std;
 // Hello, Sasha
+// Some comment
 int main() {
     pair<int, int> a = read();//huh
     int res = sum(a.first, a.second);
